@@ -1,3 +1,2 @@
-# test-repository
-This could be a test description... and it is.
-This is a new edit from local computer
+# My very first Repo
+David is a master programmer, in training... sorta
